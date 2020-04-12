@@ -1,2 +1,2 @@
 # google-homepage
-1st-mini-project-odin
+1st Project for Odin - deconstructing a webpage and put it back together
